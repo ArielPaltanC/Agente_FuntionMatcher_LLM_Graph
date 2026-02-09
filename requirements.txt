@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+openai
+langgraph
+streamlit
+neo4j
