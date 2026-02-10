@@ -83,6 +83,7 @@ Este proyecto permitió desarrollar un agente inteligente híbrido que integra p
 El uso de embeddings semánticos permitió identificar la intención del usuario de manera flexible, mientras que las reglas de negocio aseguraron decisiones correctas, evitando acciones incorrectas como la creación de pedidos sin información suficiente. La incorporación de Neo4j permitió modelar y persistir los flujos de ejecución mediante grafos, facilitando la planificación ordenada y la escalabilidad del sistema.
 
 Finalmente, LangGraph permitió ejecutar los planes de forma controlada y paso a paso, demostrando cómo un agente de IA puede razonar, planificar y actuar de manera transparente, cumpliendo con los objetivos académicos propuestos.
+
 ---
 
 ## Autores
